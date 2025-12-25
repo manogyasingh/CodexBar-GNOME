@@ -1,6 +1,7 @@
 # CodexBar GNOME Extension
 
 A GNOME Shell extension that displays AI tool usage (Codex, Claude, Gemini, Antigravity) and rate limits in your top panel.
+Forked from https://github.com/steipete/CodexBar
 
 ![GNOME Shell 45+](https://img.shields.io/badge/GNOME%20Shell-45%2B-blue)
 
